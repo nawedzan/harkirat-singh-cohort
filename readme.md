@@ -1,0 +1,1 @@
+this repo contains my notes tasks and project from harkirat singh cohort
